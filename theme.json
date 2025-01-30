@@ -16,7 +16,7 @@
 					"slug": "custom-background-primary"
 				},
 				{
-					"color": "#1f2025",
+					"color": "#17171a",
 					"name": "Background Secondary",
 					"slug": "custom-background-secondary"
 				},
@@ -159,5 +159,5 @@
 		}
 	],
 	"version": 3,
-	"$schema": "https://schemas.wp.org/wp/6.6/theme.json"
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json"
 }
