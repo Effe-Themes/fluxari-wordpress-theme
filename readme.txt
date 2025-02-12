@@ -9,6 +9,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Changelog ==
 
+= 1.1.0 =
+* Integrate floating promo block
+
 = 1.0.1 =
 * Fixed bugs and improve features
 
