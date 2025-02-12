@@ -72,17 +72,23 @@ ul > li > a:hover {
   right: 0;
   transform: translateY(-50%);
   background: #333;
-  padding: 10px 20px;
+  padding: 20px 20px;
   z-index: 1000;
+  word-wrap: break-word;
+  max-height: 70% !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .fluxari-fixed-message a {
   color: #fff;
   writing-mode: vertical-rl;
   text-align: center;
-  font-size: 14px;
   cursor: pointer;
   text-decoration: none;
+  word-wrap: break-word;
+  max-height: 70% !important;
 }
 
 /* ================= > Header < ================= */
