@@ -64,33 +64,6 @@ ul > li > a:hover {
           margin-block-start: 0;
 }
 
-/* ================= > Popup < ================= */
-
-.fluxari-fixed-message {
-  position: fixed;
-  top: 50%;
-  right: 0;
-  transform: translateY(-50%);
-  background: #333;
-  padding: 20px 20px;
-  z-index: 1000;
-  word-wrap: break-word;
-  max-height: 70% !important;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.fluxari-fixed-message a {
-  color: #fff;
-  writing-mode: vertical-rl;
-  text-align: center;
-  cursor: pointer;
-  text-decoration: none;
-  word-wrap: break-word;
-  max-height: 70% !important;
-}
-
 /* ================= > Header < ================= */
 
 .wp-block-site-title > a {
